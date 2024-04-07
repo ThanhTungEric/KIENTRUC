@@ -1,0 +1,14 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://admin:admin@cluster0.dorlyyd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      database : GiuaKyDB
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    server-url:
+      defaultZone: http://localhost:8761/eureka
+    instance:
+      hostname: localhost
