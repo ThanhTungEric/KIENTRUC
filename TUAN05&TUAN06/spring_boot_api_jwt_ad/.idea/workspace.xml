@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a169ecb5-05f1-4c64-a318-358ae3ebb55d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../TUAN03/DemoRestTemplate/src/main/java/com/example/controller/TaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TUAN03/DemoRestTemplate/src/main/java/com/example/controller/TaskController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TUAN04/ktpm-spring-data-redis/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TUAN04/ktpm-spring-data-redis/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TUAN04/ktpm-spring-data-redis/target/classes/com/javatechie/redis/SpringDataRedisExampleApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../TUAN04/ktpm-spring-data-redis/target/classes/com/javatechie/redis/SpringDataRedisExampleApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TUAN04/ktpm-spring-data-redis/target/classes/com/javatechie/redis/config/RedisConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../TUAN04/ktpm-spring-data-redis/target/classes/com/javatechie/redis/config/RedisConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TUAN04/ktpm-spring-data-redis/target/classes/com/javatechie/redis/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../TUAN04/ktpm-spring-data-redis/target/classes/com/javatechie/redis/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TUAN04/ktpm-spring-data-redis/target/classes/com/javatechie/redis/entity/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../TUAN04/ktpm-spring-data-redis/target/classes/com/javatechie/redis/entity/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TUAN04/ktpm-spring-data-redis/target/classes/com/javatechie/redis/respository/ProductDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../TUAN04/ktpm-spring-data-redis/target/classes/com/javatechie/redis/respository/ProductDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TUAN05/spring_boot_api_jwt_ad" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2dVA00GTR101g1na1ObdKs5FDYS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/MyJava/KIENTRUC/TUAN03/product",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "148c4506b350f57bcaaced510340781a",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SpringBootApiJwtAdApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring_boot_api_jwt_ad" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.spring_boot_api_jwt_ad.SpringBootApiJwtAdApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a169ecb5-05f1-4c64-a318-358ae3ebb55d" name="Changes" comment="" />
+      <created>1710082647525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710082647525</updated>
+      <workItem from="1710082648767" duration="2323000" />
+      <workItem from="1710135175313" duration="1302000" />
+      <workItem from="1710138768257" duration="3253000" />
+      <workItem from="1710740924655" duration="3350000" />
+      <workItem from="1710746068992" duration="1764000" />
+      <workItem from="1711063691440" duration="167000" />
+      <workItem from="1711064052354" duration="1398000" />
+      <workItem from="1711091514830" duration="32000" />
+      <workItem from="1713579774339" duration="1096000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

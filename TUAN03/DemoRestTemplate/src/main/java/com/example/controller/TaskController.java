@@ -12,9 +12,9 @@ public class TaskController {
     @Autowired
     private RestTemplate restTemplate;
 
-    @GetMapping("/list-user-product")
+    @GetMapping("/product")
     public Object getForObject(){
-        String url = "http://localhost:8082/products/list-user";
+        String url = "http://localhost:8082/products";
         return restTemplate.getForObject(url, Object.class);
     }
 
